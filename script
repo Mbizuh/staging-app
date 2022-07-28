@@ -1,2 +1,3 @@
 yum update -y
 yum install git httpd
+git status
